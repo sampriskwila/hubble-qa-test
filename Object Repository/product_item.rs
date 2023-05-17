@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product_item</name>
+   <tag></tag>
+   <elementGuidId>8eb9327d-115b-465b-932d-db2854e5bcf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.prd_link-product-name.css-3um8ox</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'spnSRPProdName']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>f5a8e5e9-e0a3-4ff2-a306-4b6c5c6fd3e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[5]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>abca4537-e0f7-4d97-a5b3-b3537cf8db10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Semua'])[1]/following::div[12]</value>
+      <webElementGuid>e1276910-b8c6-47a9-a7aa-211c8e221da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Maksimum'])[1]/following::div[13]</value>
+      <webElementGuid>0a3e4369-0944-4ef9-ac7f-1c43624c3d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp13.219.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>1df8b020-8fdc-4f86-a3e0-d647b25b0114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp15.999.000'])[1]/preceding::div[3]</value>
+      <webElementGuid>663026e9-591c-4e45-95ff-c8b723aa495a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple Iphone 14 / 14 Plus / 14 Pro / 14 Pro Max Garansi Resmi Ibox']/parent::*</value>
+      <webElementGuid>826f40f0-af18-4cd8-b3e4-d72f5b9850ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>169440e0-48a9-41c7-a9f1-6c9ca489c8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Apple Iphone 14 / 14 Plus / 14 Pro / 14 Pro Max Garansi Resmi Ibox' or . = 'Apple Iphone 14 / 14 Plus / 14 Pro / 14 Pro Max Garansi Resmi Ibox')]</value>
+      <webElementGuid>cae52c0f-8bdc-45ea-8dd3-551b7e0b31b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
