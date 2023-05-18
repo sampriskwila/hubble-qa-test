@@ -21,8 +21,13 @@ public class WriteToExcel {
 			cell.setCellValue(elements.get(i).getText())
 		}
 
-		String filePath = RunConfiguration.getProjectDir() + '/Excel Output File/' + sheetName + '.xlsx'
-		FileOutputStream fileOutput = new FileOutputStream(filePath)
+		String filePath = RunConfiguration.getProjectDir() + "/Excel Output File/" + sheetName + ".xlsx"
+		
+		File file = new File(filePath);
+		file.getParentFile().mkdirs();
+		file.createNewFile();
+		
+		FileOutputStream fileOutput = new FileOutputStream(file, false)
 		workbook.write(fileOutput)
 		fileOutput.close()
 	}
