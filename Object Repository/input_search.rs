@@ -18,7 +18,7 @@
          <value>input.css-3017qm.exxxdg63</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>98eed3ce-3de4-4ba4-b867-4e2d01a84683</webElementGuid>
+      <webElementGuid>8d186168-16ef-4d27-a1f1-a29fc5cbb57e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>e12cb6ee-e27e-49a6-b27d-80c82ea8806c</webElementGuid>
+      <webElementGuid>8031ff5d-9005-45ac-b0af-d541ae7aa6bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Cari di Tokopedia</value>
-      <webElementGuid>122c186f-51ef-4bca-9f4e-9aa3aeabe0b6</webElementGuid>
+      <webElementGuid>40826c14-f4de-42e5-8b24-49637d1f8cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>data-unify</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>832993b6-3b41-45fe-a5dd-7c562ac5c92e</webElementGuid>
+      <webElementGuid>c1bda966-fbfa-4b37-ba27-eaf3ab1eeeaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari di Tokopedia</value>
-      <webElementGuid>582591ab-aa27-4357-8cca-1ab660630310</webElementGuid>
+      <webElementGuid>3f44ef3d-a0ca-4b7a-b7b5-af746952e0a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>value</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>4143f641-7b09-47d7-9576-9fae6d868471</webElementGuid>
+      <webElementGuid>2cc0cb30-7c8b-489f-8f4a-58be05f52487</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-3017qm exxxdg63</value>
-      <webElementGuid>f7281917-c106-47c5-bdbe-dbebce32a44e</webElementGuid>
+      <webElementGuid>0ef8a4d3-ba90-4be0-ae12-a752c78dd263</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-nlrenb&quot;]/div[@class=&quot;css-w3ze74&quot;]/div[@class=&quot;css-1tul5ni&quot;]/div[@class=&quot;css-1y5dsat&quot;]/div[@class=&quot;css-v1hkkg e1v32nag0&quot;]/input[@class=&quot;css-3017qm exxxdg63&quot;]</value>
-      <webElementGuid>0fdda238-c561-419c-970d-a23586556d1c</webElementGuid>
+      <webElementGuid>0d864df9-5f7c-44d0-8939-1323e10350a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='i']</value>
-      <webElementGuid>abf2f8b6-8621-43c4-86aa-1f3d81e7e99d</webElementGuid>
+      <webElementGuid>3fc8d9fd-0575-4805-9b2e-3abe46c97e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-main-wrapper']/div[2]/div[2]/div/div/div/div/input</value>
-      <webElementGuid>63d3148a-3a55-44fa-88fa-70c4532d7e07</webElementGuid>
+      <webElementGuid>6afb711b-4aed-4c67-a390-641528347591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5d24ba19-25c1-4250-ac2c-b532474673dc</webElementGuid>
+      <webElementGuid>7f2f05c0-efab-4bcf-92e1-7c4cbfdc4088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @placeholder = 'Cari di Tokopedia']</value>
-      <webElementGuid>b74774cc-7d3f-456f-a602-ccc7c98d18b4</webElementGuid>
+      <webElementGuid>19ec23d5-794b-4d0d-821b-1a6437c2b720</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

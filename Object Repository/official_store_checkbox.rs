@@ -18,7 +18,7 @@
          <value>span.css-1i85qm8-unf-checkbox__area.e3y1k2n1</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>031ca1e0-2a5e-4834-ac44-9349024c3f40</webElementGuid>
+      <webElementGuid>c6a74351-42a7-4419-b002-4e3d70619879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-1i85qm8-unf-checkbox__area e3y1k2n1</value>
-      <webElementGuid>83529bc9-9b08-4574-be5e-74d5d9acef6a</webElementGuid>
+      <webElementGuid>18646a36-31d8-407f-b8ff-4e51d7ec04b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-khi8sg&quot;]/div[1]/div[@class=&quot;css-1ghv7i5&quot;]/div[@class=&quot;css-1m93f3h&quot;]/div[1]/div[@class=&quot;css-1cb34wj&quot;]/div[@class=&quot;css-frokek&quot;]/div[@class=&quot;css-1bh52ki e3y1k2n0&quot;]/div[@class=&quot;css-8wwjx7-unf-checkbox e4ba57s3&quot;]/span[@class=&quot;css-1i85qm8-unf-checkbox__area e3y1k2n1&quot;]</value>
-      <webElementGuid>37900a74-e7b0-4d83-9d49-698250f39d43</webElementGuid>
+      <webElementGuid>6561ac2c-f615-4eb3-8c6c-855c4112bc9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/span</value>
-      <webElementGuid>938c7c11-188a-45f4-a5b8-67e24f61fc39</webElementGuid>
+      <webElementGuid>5646a111-5c7e-46e8-86b2-bc41145e8e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis toko'])[1]/following::span[1]</value>
-      <webElementGuid>a34fbf9c-05f6-4fec-88a0-9c4e35b53925</webElementGuid>
+      <webElementGuid>d0e85908-6e7b-46f3-83cf-766c3132df23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris Tablet'])[1]/following::span[1]</value>
-      <webElementGuid>e30d47f4-e8be-4c68-979e-b6cc106b3e39</webElementGuid>
+      <webElementGuid>64722ad1-6fed-49c5-a61f-ab1b7e3a7885</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Official Store'])[1]/preceding::span[1]</value>
-      <webElementGuid>f44bae7f-8f52-4b48-ac11-37d772b4156e</webElementGuid>
+      <webElementGuid>f7ebfbf0-7bc6-42e4-bbf1-fe3d7198848e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Merchant Pro'])[1]/preceding::span[3]</value>
-      <webElementGuid>cfd4b38e-95c3-4028-b403-6d1cb41a52fe</webElementGuid>
+      <webElementGuid>518a1952-3d92-405a-97dc-b62ca6be1f22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/div/div/div/div/div/div/span</value>
-      <webElementGuid>93610086-1128-47f6-9819-a5099bc277e2</webElementGuid>
+      <webElementGuid>4f36b33a-7d52-4f43-8720-8672f77fb00f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
