@@ -1,6 +1,8 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebElement as WebElement
+
+import org.openqa.selenium.Keys
+import org.openqa.selenium.WebElement
+
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 WebUI.openBrowser('')
@@ -41,7 +43,7 @@ WebUI.click(findTestObject('sort_harga_terendah'))
 
 List<WebElement> productPageOne = WebUI.findWebElements(findTestObject('product_item'), 5)
 
-CustomKeywords.'hubblePackage.WriteToExcel.storeData'(productPageOne, 'Page 1')
+CustomKeywords.'hubblePackage.ExcelFileHandler.writeToExcel'(productPageOne, 'Page 1')
 
 WebUI.scrollToPosition(1000, 9999)
 
@@ -53,7 +55,7 @@ WebUI.waitForPageLoad(30)
 
 List<WebElement> productPageTwo = WebUI.findWebElements(findTestObject('product_item'), 5)
 
-CustomKeywords.'hubblePackage.WriteToExcel.storeData'(productPageTwo, 'Page 2')
+CustomKeywords.'hubblePackage.ExcelFileHandler.writeToExcel'(productPageTwo, 'Page 2')
 
 WebUI.scrollToPosition(1000, 9999)
 
@@ -65,7 +67,7 @@ WebUI.waitForPageLoad(30)
 
 List<WebElement> productPageThree = WebUI.findWebElements(findTestObject('product_item'), 5)
 
-CustomKeywords.'hubblePackage.WriteToExcel.storeData'(productPageThree, 'Page 3')
+CustomKeywords.'hubblePackage.ExcelFileHandler.writeToExcel'(productPageThree, 'Page 3')
 
 WebUI.closeBrowser()
 

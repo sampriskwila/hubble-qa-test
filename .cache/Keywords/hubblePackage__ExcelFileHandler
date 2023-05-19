@@ -1,11 +1,11 @@
 {
-  "keywordFileContentHash": "632A58A5DBD864419C7D9E55FCEB5B09",
+  "keywordFileContentHash": "76DE30B46958CB0D6D2D2766D6C83628",
   "keywordClasses": [
     {
-      "name": "hubblePackage.WriteToExcel",
+      "name": "hubblePackage.ExcelFileHandler",
       "keywordMethods": [
         {
-          "name": "storeData",
+          "name": "writeToExcel",
           "parameters": [
             {
               "name": "elements",
